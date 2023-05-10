@@ -1,0 +1,142 @@
+{
+  "collections": [
+    {
+      "Rolls-Royce": [
+        {
+          "number": "g1",
+          "name": "Rolls-Royce 40/50 Silver Ghost",
+          "year": "1911",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        },
+        {
+          "number": "g2",
+          "name": "Rolls-Royce TT 20/25",
+          "year": "1925",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        },
+        {
+          "number": "g3",
+          "name": "Ford Granada",
+          "year": "1980",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        }
+      ]
+    },
+    {
+      "BMW": [
+        {
+          "number": "D1",
+          "name": "Rover 3500S",
+          "year": "1975",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        },
+        {
+          "number": "D2",
+          "name": "BMW 3.3",
+          "year": "1981",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        },
+        {
+          "number": "D3",
+          "name": "Mercedes 450 SL",
+          "year": "1973",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        }
+      ]
+    },
+    {
+      "Volkswagen": [
+        {
+          "number": "F1",
+          "name": "Rover 3500S",
+          "year": "1975",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        },
+        {
+          "number": "F2",
+          "name": "BMW 3.3",
+          "year": "1981",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        },
+        {
+          "number": "F3",
+          "name": "Mercedes 450 SL",
+          "year": "1973",
+          "picture": "",
+          "settings": {
+            "engine": "7.4L",
+            "power": "48hp",
+            "weight": "1.5t",
+            "maxSpeed": "80km/h",
+            "price": "£1,000",
+            "cc": "3433"
+          }
+        }
+      ]
+    }
+  ]
+}
