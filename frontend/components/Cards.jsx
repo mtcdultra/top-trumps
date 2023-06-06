@@ -38,12 +38,21 @@ const Settings = ({ settings }) => {
 
 export const Cards = (props) => {
   return (
+
+
+
+
+
     <div className="cards">
-      ˙
+      
+
+
       <Header number={props.item.number} collection={props.collection} />
       <Picture picture={props.item.picture} />
       <Name name={props.item.name} />
       <Settings settings={props.item.settings} />
     </div>
+
+    
   );
 };

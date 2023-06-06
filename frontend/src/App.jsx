@@ -18,14 +18,15 @@ function App() {
   }, []);
 
   return (
-    <div className="border">
-      <Tabs defaultActiveKey="0" id="uncontrolled-tab-example" className="mb-3">
+    // <div className="border">
+      <div className="table">
+      <Tabs defaultActiveKey="0" id="uncontrolled-tab-example" className="tabs-item">
         {Object.values(collections).map((collection, index) => {
           return (
-            <Tab eventKey={index} title={Object.keys(collection)} key={index}>
+            <Tab eventKey={index} title={Object.keys(collection)} key={index} className='tabs'>
               {Object.values(collection)[0].map((item, index) => {
                 return (
-                  <div className="card">
+                  <div>
                     <Cards item={item} collection={Object.keys(collection)} />
                   </div>
                 );
